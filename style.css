@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
 
 body{
-  background-color: whitesmoke;
+  background-color: white;
   font-family: 'Prompt', sans-serif;
   }
 
@@ -9,6 +9,10 @@ nav {
   word-spacing: 10px;
   text-align: center;
   }
+
+.nav {
+  color: grey;
+}
 
 .none-underline{
   text-decoration: none;
